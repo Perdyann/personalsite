@@ -1,0 +1,16 @@
+Text for generating content on
+Using artificial inteligence to determine the meaning of a text input
+(Goal of uniqueness, search on google abotu all that, describe the format of this kind of data etc)
+
+License plate number, driving license number,
+
+Student #, Course code, Password strength
+
+Coupon code, promocode
+
+Amazon products, ISBN, manufacturers part number
+
+Phone number, Hexadecimal number,
+
+Or simply add a number to what we have on different meanings and 
+create a different website that still does path number stuff
